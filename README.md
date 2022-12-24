@@ -1,5 +1,10 @@
 # download-ubuntu-packages-and-their-dependencies-recursively-and-install
 
+![ascii-download-ubuntu-packages-and-their-dependencies-recursively-and-install.png](ascii-download-ubuntu-packages-and-their-dependencies-recursively-and-install.png)
+
+---
+
+
 Solution for installing packages on offline systems without any networking and internet.
 
 Two scripts for:
