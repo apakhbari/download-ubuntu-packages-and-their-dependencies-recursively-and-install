@@ -5,7 +5,7 @@
 ---
 
 
-Solution for installing packages on offline systems without any networking and internet.
+Solution for installing packages on air-gapped systems. (offline, without any networking and internet)
 
 Two scripts for:
 
